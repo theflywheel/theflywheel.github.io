@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Flywheel!
 subtitle: An awesome site for discussing product, technology, business and strategy.
 author: Loi Ng
-categories: Loi
+categories: Insights
 banner:
   video: "/assets/videos/oceans.mp4"
   loop: true
