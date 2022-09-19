@@ -25,12 +25,10 @@ tags: [Product Design and Development Tools]
 
 得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。
 
-
 正确的工具应用在正确的阶段
 ------------
 
 在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：
-
 
 |  | 阶段   | 工具 |
 |--------------------|---------------|------------------------------------|
@@ -55,8 +53,6 @@ Right Tools at Right Stages
 
 Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.
 
-[cell image]: https://jekyllrb.com/img/octojekyll.png "An exemplary image"
-
 |            | Stage     | Tools                         |
 |--------------------|---------------|------------------------------------|
 | Stage 1              | Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas? | Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps. |
@@ -65,7 +61,6 @@ Appropriate tools should be applied in the sequential stages of the design and d
 | Stage 4         | Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept? | Design for functionality; design for assembly; design for recycling. |
 | Stage 5      | Detail design specifications. What tools can be used to add greater detail to the initial design specifications? |  QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions. |
 | Stage 6      | Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch? | Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch? |
-
 
 Check out the [Digital and Intelligent Product Development][PMerBot-site] for more info.
 
