@@ -54,11 +54,9 @@ When analyzing and developing strategies, you need to pay attention to lots of a
 |--------------------|---------------|------------------------------------|
 | 1 | What is strategy? Why is it so important to business success?|  |
 | 2 | How is strategy developed within business? And how does it relate to, inform, and direct all business functions? What specific processes and techniques can be used to develop a business strategy? |  |
-| 3 | What specific functional strategies impact on, and are impacted by, overall business strategy: marketing,
-technology, intellectual property, capability, technical, and manufacturing platforms? |  |
+| 3 | What specific functional strategies impact on, and are impacted by, overall business strategy: marketing technology, intellectual property, capability, technical, and manufacturing platforms? |  |
 | 4 | What is a product innovation strategy and how does it relate to the overall business strategy? What frameworks can be used to guide the development of a product innovation strategy? |  |
-| 5 | How can Open Innovation leverage knowledge from external sources, through alliances, partnerships, and
-contractual arrangements, to complement and enhance its internal capability in pursuit of improved innovation outcomes? |  |
+| 5 | How can Open Innovation leverage knowledge from external sources, through alliances, partnerships, and contractual arrangements, to complement and enhance its internal capability in pursuit of improved innovation outcomes? |  |
 | 6 | How do sustainability considerations complement and extend the product innovation strategy? |  |
 
 Check out the [Digital and Intelligent Product Development][PMerBot-site] for more info.
