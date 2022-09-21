@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-21T21:00:47+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Loi’s awesome site</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>Loi Ng</name></author><entry><title type="html">最新总结:产品设计与开发工具 [双语博文]</title><link href="http://localhost:4000/npdp/2022/09/18/product-innovation-management.html" rel="alternate" type="text/html" title="最新总结:产品设计与开发工具 [双语博文]" /><published>2022-09-18T00:00:00+08:00</published><updated>2022-09-18T00:00:00+08:00</updated><id>http://localhost:4000/npdp/2022/09/18/product-innovation-management</id><content type="html" xml:base="http://localhost:4000/npdp/2022/09/18/product-innovation-management.html"><![CDATA[<h2 id="产品设计和开发工具非常重要">产品设计和开发工具非常重要</h2>
+
+<p>我们钟爱产品创新，产品的设计和开发是产品创新要具体做的事情。在产品设计和开发的过程中，我们可以利用特定的工具和方法完成产品的创新，完成创意构思、概念开发、实体设计和细节设计。</p>
+
+<p>得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。</p>
+
+<h2 id="正确的工具应用在正确的阶段">正确的工具应用在正确的阶段</h2>
+
+<p>在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>阶段</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>阶段 1</td>
+      <td>创意生成阶段：哪些工具可以解决问题、识别机会或生成新的产品创意？</td>
+      <td>SCAMPER法、头脑风暴、思维导图、故事板、头脑书写法、六顶思考帽、德尔菲法、人种学方法、生命中的一天法、移情分析、用户画像、用户体验地图</td>
+    </tr>
+    <tr>
+      <td>阶段 2</td>
+      <td>概念设计阶段：哪些工具可将创意转化为更为详细的概念说明？</td>
+      <td>概念工程、卡诺模型、形态分析、概念场景、TRIZ</td>
+    </tr>
+    <tr>
+      <td>阶段 3</td>
+      <td>实体化设计阶段：哪些工具可以提供更多产品外观、形态和功能细节？</td>
+      <td>联合分析、功能分析、FAST技术图、逆向工程</td>
+    </tr>
+    <tr>
+      <td>阶段 4</td>
+      <td>初试设计和规格设计阶段：哪些工具可将定性设计概念转化为定量设计规格？</td>
+      <td>功能性设计、可生产性设计、可装配性设计、可维护性设计、可回收性设计、可用性设计、可服务性设计</td>
+    </tr>
+    <tr>
+      <td>阶段 5</td>
+      <td>详细设计和规格设计阶段：哪些工具可将初始设计规格更为详细化？</td>
+      <td>质量功能展开、稳定设计、情感化设计</td>
+    </tr>
+    <tr>
+      <td>阶段 6</td>
+      <td>制造与装配阶段：哪些工具可为产品规模扩大、大批量生产和上市提供详细的规格？</td>
+      <td>原型法、六西格玛设计、可持续性设计</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>点击 <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">数字和智能产品开发</a> 获得更多详细信息.</p>
+
+<h2 id="tools-are-extremely-important">Tools are extremely important</h2>
+
+<p>Product innovation makes use of specific tools and methods as products move through the different phases of design and development: ideation, concept development, embodiment design, and detail design.</p>
+
+<p>Each of these phases benefits significantly from the application of particular tools to reduce uncertainty and ambiguity and to assure conformance with the customer requirements and technical specifications of the design. A number of the most commonly used tools can be applied at the various phases of the product design process.</p>
+
+<h2 id="right-tools-at-right-stages">Right Tools at Right Stages</h2>
+
+<p>Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Stage</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stage 1</td>
+      <td>Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas?</td>
+      <td>Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps.</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>Concept design. What tools  can be used to further develop the initial idea into a more detailed concept description?</td>
+      <td>Concept engineering; Kano method; morphological analysis; TRIZ method.</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>Embodiment. What tools can be used to provide even greater detail to the concept in terms of aesthetics, form, and functional details.</td>
+      <td>Conjoint analysis; function analysis; FAST diagram; reverse engineering.</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept?</td>
+      <td>Design for functionality; design for assembly; design for recycling.</td>
+    </tr>
+    <tr>
+      <td>Stage 5</td>
+      <td>Detail design specifications. What tools can be used to add greater detail to the initial design specifications?</td>
+      <td>QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions.</td>
+    </tr>
+    <tr>
+      <td>Stage 6</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Check out the <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">Digital and Intelligent Product Development</a> for more info.</p>]]></content><author><name>Loi Ng</name></author><category term="NPDP" /><category term="Product Design and Development Tools" /><summary type="html"><![CDATA[产品设计和开发工具非常重要]]></summary></entry><entry><title type="html">最新总结:产品设计与开发工具 [双语博文]</title><link href="http://localhost:4000/npdp/2022/09/17/culture-teams-leadership.html" rel="alternate" type="text/html" title="最新总结:产品设计与开发工具 [双语博文]" /><published>2022-09-17T00:00:00+08:00</published><updated>2022-09-17T00:00:00+08:00</updated><id>http://localhost:4000/npdp/2022/09/17/culture-teams-leadership</id><content type="html" xml:base="http://localhost:4000/npdp/2022/09/17/culture-teams-leadership.html"><![CDATA[<h2 id="产品设计和开发工具非常重要">产品设计和开发工具非常重要</h2>
+
+<p>我们钟爱产品创新，产品的设计和开发是产品创新要具体做的事情。在产品设计和开发的过程中，我们可以利用特定的工具和方法完成产品的创新，完成创意构思、概念开发、实体设计和细节设计。</p>
+
+<p>得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。</p>
+
+<h2 id="正确的工具应用在正确的阶段">正确的工具应用在正确的阶段</h2>
+
+<p>在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>阶段</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>阶段 1</td>
+      <td>创意生成阶段：哪些工具可以解决问题、识别机会或生成新的产品创意？</td>
+      <td>SCAMPER法、头脑风暴、思维导图、故事板、头脑书写法、六顶思考帽、德尔菲法、人种学方法、生命中的一天法、移情分析、用户画像、用户体验地图</td>
+    </tr>
+    <tr>
+      <td>阶段 2</td>
+      <td>概念设计阶段：哪些工具可将创意转化为更为详细的概念说明？</td>
+      <td>概念工程、卡诺模型、形态分析、概念场景、TRIZ</td>
+    </tr>
+    <tr>
+      <td>阶段 3</td>
+      <td>实体化设计阶段：哪些工具可以提供更多产品外观、形态和功能细节？</td>
+      <td>联合分析、功能分析、FAST技术图、逆向工程</td>
+    </tr>
+    <tr>
+      <td>阶段 4</td>
+      <td>初试设计和规格设计阶段：哪些工具可将定性设计概念转化为定量设计规格？</td>
+      <td>功能性设计、可生产性设计、可装配性设计、可维护性设计、可回收性设计、可用性设计、可服务性设计</td>
+    </tr>
+    <tr>
+      <td>阶段 5</td>
+      <td>详细设计和规格设计阶段：哪些工具可将初始设计规格更为详细化？</td>
+      <td>质量功能展开、稳定设计、情感化设计</td>
+    </tr>
+    <tr>
+      <td>阶段 6</td>
+      <td>制造与装配阶段：哪些工具可为产品规模扩大、大批量生产和上市提供详细的规格？</td>
+      <td>原型法、六西格玛设计、可持续性设计</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>点击 <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">数字和智能产品开发</a> 获得更多详细信息.</p>
+
+<h2 id="tools-are-extremely-important">Tools are extremely important</h2>
+
+<p>Product innovation makes use of specific tools and methods as products move through the different phases of design and development: ideation, concept development, embodiment design, and detail design.</p>
+
+<p>Each of these phases benefits significantly from the application of particular tools to reduce uncertainty and ambiguity and to assure conformance with the customer requirements and technical specifications of the design. A number of the most commonly used tools can be applied at the various phases of the product design process.</p>
+
+<h2 id="right-tools-at-right-stages">Right Tools at Right Stages</h2>
+
+<p>Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Stage</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stage 1</td>
+      <td>Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas?</td>
+      <td>Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps.</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>Concept design. What tools  can be used to further develop the initial idea into a more detailed concept description?</td>
+      <td>Concept engineering; Kano method; morphological analysis; TRIZ method.</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>Embodiment. What tools can be used to provide even greater detail to the concept in terms of aesthetics, form, and functional details.</td>
+      <td>Conjoint analysis; function analysis; FAST diagram; reverse engineering.</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept?</td>
+      <td>Design for functionality; design for assembly; design for recycling.</td>
+    </tr>
+    <tr>
+      <td>Stage 5</td>
+      <td>Detail design specifications. What tools can be used to add greater detail to the initial design specifications?</td>
+      <td>QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions.</td>
+    </tr>
+    <tr>
+      <td>Stage 6</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Check out the <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">Digital and Intelligent Product Development</a> for more info.</p>]]></content><author><name>Loi Ng</name></author><category term="NPDP" /><category term="Product Design and Development Tools" /><summary type="html"><![CDATA[产品设计和开发工具非常重要]]></summary></entry><entry><title type="html">最新总结:产品设计与开发工具 [双语博文]</title><link href="http://localhost:4000/npdp/2022/09/16/market-research-in-product-innovation.html" rel="alternate" type="text/html" title="最新总结:产品设计与开发工具 [双语博文]" /><published>2022-09-16T00:00:00+08:00</published><updated>2022-09-16T00:00:00+08:00</updated><id>http://localhost:4000/npdp/2022/09/16/market-research-in-product-innovation</id><content type="html" xml:base="http://localhost:4000/npdp/2022/09/16/market-research-in-product-innovation.html"><![CDATA[<h2 id="产品设计和开发工具非常重要">产品设计和开发工具非常重要</h2>
+
+<p>我们钟爱产品创新，产品的设计和开发是产品创新要具体做的事情。在产品设计和开发的过程中，我们可以利用特定的工具和方法完成产品的创新，完成创意构思、概念开发、实体设计和细节设计。</p>
+
+<p>得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。</p>
+
+<h2 id="正确的工具应用在正确的阶段">正确的工具应用在正确的阶段</h2>
+
+<p>在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>阶段</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>阶段 1</td>
+      <td>创意生成阶段：哪些工具可以解决问题、识别机会或生成新的产品创意？</td>
+      <td>SCAMPER法、头脑风暴、思维导图、故事板、头脑书写法、六顶思考帽、德尔菲法、人种学方法、生命中的一天法、移情分析、用户画像、用户体验地图</td>
+    </tr>
+    <tr>
+      <td>阶段 2</td>
+      <td>概念设计阶段：哪些工具可将创意转化为更为详细的概念说明？</td>
+      <td>概念工程、卡诺模型、形态分析、概念场景、TRIZ</td>
+    </tr>
+    <tr>
+      <td>阶段 3</td>
+      <td>实体化设计阶段：哪些工具可以提供更多产品外观、形态和功能细节？</td>
+      <td>联合分析、功能分析、FAST技术图、逆向工程</td>
+    </tr>
+    <tr>
+      <td>阶段 4</td>
+      <td>初试设计和规格设计阶段：哪些工具可将定性设计概念转化为定量设计规格？</td>
+      <td>功能性设计、可生产性设计、可装配性设计、可维护性设计、可回收性设计、可用性设计、可服务性设计</td>
+    </tr>
+    <tr>
+      <td>阶段 5</td>
+      <td>详细设计和规格设计阶段：哪些工具可将初始设计规格更为详细化？</td>
+      <td>质量功能展开、稳定设计、情感化设计</td>
+    </tr>
+    <tr>
+      <td>阶段 6</td>
+      <td>制造与装配阶段：哪些工具可为产品规模扩大、大批量生产和上市提供详细的规格？</td>
+      <td>原型法、六西格玛设计、可持续性设计</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>点击 <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">数字和智能产品开发</a> 获得更多详细信息.</p>
+
+<h2 id="tools-are-extremely-important">Tools are extremely important</h2>
+
+<p>Product innovation makes use of specific tools and methods as products move through the different phases of design and development: ideation, concept development, embodiment design, and detail design.</p>
+
+<p>Each of these phases benefits significantly from the application of particular tools to reduce uncertainty and ambiguity and to assure conformance with the customer requirements and technical specifications of the design. A number of the most commonly used tools can be applied at the various phases of the product design process.</p>
+
+<h2 id="right-tools-at-right-stages">Right Tools at Right Stages</h2>
+
+<p>Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Stage</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stage 1</td>
+      <td>Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas?</td>
+      <td>Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps.</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>Concept design. What tools  can be used to further develop the initial idea into a more detailed concept description?</td>
+      <td>Concept engineering; Kano method; morphological analysis; TRIZ method.</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>Embodiment. What tools can be used to provide even greater detail to the concept in terms of aesthetics, form, and functional details.</td>
+      <td>Conjoint analysis; function analysis; FAST diagram; reverse engineering.</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept?</td>
+      <td>Design for functionality; design for assembly; design for recycling.</td>
+    </tr>
+    <tr>
+      <td>Stage 5</td>
+      <td>Detail design specifications. What tools can be used to add greater detail to the initial design specifications?</td>
+      <td>QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions.</td>
+    </tr>
+    <tr>
+      <td>Stage 6</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Check out the <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">Digital and Intelligent Product Development</a> for more info.</p>]]></content><author><name>Loi Ng</name></author><category term="NPDP" /><category term="Product Design and Development Tools" /><summary type="html"><![CDATA[产品设计和开发工具非常重要]]></summary></entry><entry><title type="html">最新总结:产品设计与开发工具 [双语博文]</title><link href="http://localhost:4000/npdp/2022/09/15/product-design-development-tools.html" rel="alternate" type="text/html" title="最新总结:产品设计与开发工具 [双语博文]" /><published>2022-09-15T00:00:00+08:00</published><updated>2022-09-15T00:00:00+08:00</updated><id>http://localhost:4000/npdp/2022/09/15/product-design-development-tools</id><content type="html" xml:base="http://localhost:4000/npdp/2022/09/15/product-design-development-tools.html"><![CDATA[<h2 id="产品设计和开发工具非常重要">产品设计和开发工具非常重要</h2>
+
+<p>我们钟爱产品创新，产品的设计和开发是产品创新要具体做的事情。在产品设计和开发的过程中，我们可以利用特定的工具和方法完成产品的创新，完成创意构思、概念开发、实体设计和细节设计。</p>
+
+<p>得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。</p>
+
+<h2 id="正确的工具应用在正确的阶段">正确的工具应用在正确的阶段</h2>
+
+<p>在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>阶段</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>阶段 1</td>
+      <td>创意生成阶段：哪些工具可以解决问题、识别机会或生成新的产品创意？</td>
+      <td>SCAMPER法、头脑风暴、思维导图、故事板、头脑书写法、六顶思考帽、德尔菲法、人种学方法、生命中的一天法、移情分析、用户画像、用户体验地图</td>
+    </tr>
+    <tr>
+      <td>阶段 2</td>
+      <td>概念设计阶段：哪些工具可将创意转化为更为详细的概念说明？</td>
+      <td>概念工程、卡诺模型、形态分析、概念场景、TRIZ</td>
+    </tr>
+    <tr>
+      <td>阶段 3</td>
+      <td>实体化设计阶段：哪些工具可以提供更多产品外观、形态和功能细节？</td>
+      <td>联合分析、功能分析、FAST技术图、逆向工程</td>
+    </tr>
+    <tr>
+      <td>阶段 4</td>
+      <td>初试设计和规格设计阶段：哪些工具可将定性设计概念转化为定量设计规格？</td>
+      <td>功能性设计、可生产性设计、可装配性设计、可维护性设计、可回收性设计、可用性设计、可服务性设计</td>
+    </tr>
+    <tr>
+      <td>阶段 5</td>
+      <td>详细设计和规格设计阶段：哪些工具可将初始设计规格更为详细化？</td>
+      <td>质量功能展开、稳定设计、情感化设计</td>
+    </tr>
+    <tr>
+      <td>阶段 6</td>
+      <td>制造与装配阶段：哪些工具可为产品规模扩大、大批量生产和上市提供详细的规格？</td>
+      <td>原型法、六西格玛设计、可持续性设计</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>点击 <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">数字和智能产品开发</a> 获得更多详细信息.</p>
+
+<h2 id="tools-are-extremely-important">Tools are extremely important</h2>
+
+<p>Product innovation makes use of specific tools and methods as products move through the different phases of design and development: ideation, concept development, embodiment design, and detail design.</p>
+
+<p>Each of these phases benefits significantly from the application of particular tools to reduce uncertainty and ambiguity and to assure conformance with the customer requirements and technical specifications of the design. A number of the most commonly used tools can be applied at the various phases of the product design process.</p>
+
+<h2 id="right-tools-at-right-stages">Right Tools at Right Stages</h2>
+
+<p>Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Stage</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stage 1</td>
+      <td>Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas?</td>
+      <td>Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps.</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>Concept design. What tools  can be used to further develop the initial idea into a more detailed concept description?</td>
+      <td>Concept engineering; Kano method; morphological analysis; TRIZ method.</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>Embodiment. What tools can be used to provide even greater detail to the concept in terms of aesthetics, form, and functional details.</td>
+      <td>Conjoint analysis; function analysis; FAST diagram; reverse engineering.</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept?</td>
+      <td>Design for functionality; design for assembly; design for recycling.</td>
+    </tr>
+    <tr>
+      <td>Stage 5</td>
+      <td>Detail design specifications. What tools can be used to add greater detail to the initial design specifications?</td>
+      <td>QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions.</td>
+    </tr>
+    <tr>
+      <td>Stage 6</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Check out the <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">Digital and Intelligent Product Development</a> for more info.</p>]]></content><author><name>Loi Ng</name></author><category term="NPDP" /><category term="Product Design and Development Tools" /><summary type="html"><![CDATA[产品设计和开发工具非常重要]]></summary></entry><entry><title type="html">最新总结:产品设计与开发工具 [双语博文]</title><link href="http://localhost:4000/npdp/2022/09/14/product-innovation-process.html" rel="alternate" type="text/html" title="最新总结:产品设计与开发工具 [双语博文]" /><published>2022-09-14T00:00:00+08:00</published><updated>2022-09-14T00:00:00+08:00</updated><id>http://localhost:4000/npdp/2022/09/14/product-innovation-process</id><content type="html" xml:base="http://localhost:4000/npdp/2022/09/14/product-innovation-process.html"><![CDATA[<h2 id="产品设计和开发工具非常重要">产品设计和开发工具非常重要</h2>
+
+<p>我们钟爱产品创新，产品的设计和开发是产品创新要具体做的事情。在产品设计和开发的过程中，我们可以利用特定的工具和方法完成产品的创新，完成创意构思、概念开发、实体设计和细节设计。</p>
+
+<p>得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。</p>
+
+<h2 id="正确的工具应用在正确的阶段">正确的工具应用在正确的阶段</h2>
+
+<p>在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>阶段</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>阶段 1</td>
+      <td>创意生成阶段：哪些工具可以解决问题、识别机会或生成新的产品创意？</td>
+      <td>SCAMPER法、头脑风暴、思维导图、故事板、头脑书写法、六顶思考帽、德尔菲法、人种学方法、生命中的一天法、移情分析、用户画像、用户体验地图</td>
+    </tr>
+    <tr>
+      <td>阶段 2</td>
+      <td>概念设计阶段：哪些工具可将创意转化为更为详细的概念说明？</td>
+      <td>概念工程、卡诺模型、形态分析、概念场景、TRIZ</td>
+    </tr>
+    <tr>
+      <td>阶段 3</td>
+      <td>实体化设计阶段：哪些工具可以提供更多产品外观、形态和功能细节？</td>
+      <td>联合分析、功能分析、FAST技术图、逆向工程</td>
+    </tr>
+    <tr>
+      <td>阶段 4</td>
+      <td>初试设计和规格设计阶段：哪些工具可将定性设计概念转化为定量设计规格？</td>
+      <td>功能性设计、可生产性设计、可装配性设计、可维护性设计、可回收性设计、可用性设计、可服务性设计</td>
+    </tr>
+    <tr>
+      <td>阶段 5</td>
+      <td>详细设计和规格设计阶段：哪些工具可将初始设计规格更为详细化？</td>
+      <td>质量功能展开、稳定设计、情感化设计</td>
+    </tr>
+    <tr>
+      <td>阶段 6</td>
+      <td>制造与装配阶段：哪些工具可为产品规模扩大、大批量生产和上市提供详细的规格？</td>
+      <td>原型法、六西格玛设计、可持续性设计</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>点击 <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">数字和智能产品开发</a> 获得更多详细信息.</p>
+
+<h2 id="tools-are-extremely-important">Tools are extremely important</h2>
+
+<p>Product innovation makes use of specific tools and methods as products move through the different phases of design and development: ideation, concept development, embodiment design, and detail design.</p>
+
+<p>Each of these phases benefits significantly from the application of particular tools to reduce uncertainty and ambiguity and to assure conformance with the customer requirements and technical specifications of the design. A number of the most commonly used tools can be applied at the various phases of the product design process.</p>
+
+<h2 id="right-tools-at-right-stages">Right Tools at Right Stages</h2>
+
+<p>Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Stage</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stage 1</td>
+      <td>Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas?</td>
+      <td>Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps.</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>Concept design. What tools  can be used to further develop the initial idea into a more detailed concept description?</td>
+      <td>Concept engineering; Kano method; morphological analysis; TRIZ method.</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>Embodiment. What tools can be used to provide even greater detail to the concept in terms of aesthetics, form, and functional details.</td>
+      <td>Conjoint analysis; function analysis; FAST diagram; reverse engineering.</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept?</td>
+      <td>Design for functionality; design for assembly; design for recycling.</td>
+    </tr>
+    <tr>
+      <td>Stage 5</td>
+      <td>Detail design specifications. What tools can be used to add greater detail to the initial design specifications?</td>
+      <td>QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions.</td>
+    </tr>
+    <tr>
+      <td>Stage 6</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Check out the <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">Digital and Intelligent Product Development</a> for more info.</p>]]></content><author><name>Loi Ng</name></author><category term="NPDP" /><category term="Product Design and Development Tools" /><summary type="html"><![CDATA[产品设计和开发工具非常重要]]></summary></entry><entry><title type="html">最新总结:产品设计与开发工具 [双语博文]</title><link href="http://localhost:4000/npdp/2022/09/13/product-portfolio-management.html" rel="alternate" type="text/html" title="最新总结:产品设计与开发工具 [双语博文]" /><published>2022-09-13T00:00:00+08:00</published><updated>2022-09-13T00:00:00+08:00</updated><id>http://localhost:4000/npdp/2022/09/13/product-portfolio-management</id><content type="html" xml:base="http://localhost:4000/npdp/2022/09/13/product-portfolio-management.html"><![CDATA[<h2 id="产品设计和开发工具非常重要">产品设计和开发工具非常重要</h2>
+
+<p>我们钟爱产品创新，产品的设计和开发是产品创新要具体做的事情。在产品设计和开发的过程中，我们可以利用特定的工具和方法完成产品的创新，完成创意构思、概念开发、实体设计和细节设计。</p>
+
+<p>得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。</p>
+
+<h2 id="正确的工具应用在正确的阶段">正确的工具应用在正确的阶段</h2>
+
+<p>在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>阶段</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>阶段 1</td>
+      <td>创意生成阶段：哪些工具可以解决问题、识别机会或生成新的产品创意？</td>
+      <td>SCAMPER法、头脑风暴、思维导图、故事板、头脑书写法、六顶思考帽、德尔菲法、人种学方法、生命中的一天法、移情分析、用户画像、用户体验地图</td>
+    </tr>
+    <tr>
+      <td>阶段 2</td>
+      <td>概念设计阶段：哪些工具可将创意转化为更为详细的概念说明？</td>
+      <td>概念工程、卡诺模型、形态分析、概念场景、TRIZ</td>
+    </tr>
+    <tr>
+      <td>阶段 3</td>
+      <td>实体化设计阶段：哪些工具可以提供更多产品外观、形态和功能细节？</td>
+      <td>联合分析、功能分析、FAST技术图、逆向工程</td>
+    </tr>
+    <tr>
+      <td>阶段 4</td>
+      <td>初试设计和规格设计阶段：哪些工具可将定性设计概念转化为定量设计规格？</td>
+      <td>功能性设计、可生产性设计、可装配性设计、可维护性设计、可回收性设计、可用性设计、可服务性设计</td>
+    </tr>
+    <tr>
+      <td>阶段 5</td>
+      <td>详细设计和规格设计阶段：哪些工具可将初始设计规格更为详细化？</td>
+      <td>质量功能展开、稳定设计、情感化设计</td>
+    </tr>
+    <tr>
+      <td>阶段 6</td>
+      <td>制造与装配阶段：哪些工具可为产品规模扩大、大批量生产和上市提供详细的规格？</td>
+      <td>原型法、六西格玛设计、可持续性设计</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>点击 <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">数字和智能产品开发</a> 获得更多详细信息.</p>
+
+<h2 id="tools-are-extremely-important">Tools are extremely important</h2>
+
+<p>Product innovation makes use of specific tools and methods as products move through the different phases of design and development: ideation, concept development, embodiment design, and detail design.</p>
+
+<p>Each of these phases benefits significantly from the application of particular tools to reduce uncertainty and ambiguity and to assure conformance with the customer requirements and technical specifications of the design. A number of the most commonly used tools can be applied at the various phases of the product design process.</p>
+
+<h2 id="right-tools-at-right-stages">Right Tools at Right Stages</h2>
+
+<p>Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Stage</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stage 1</td>
+      <td>Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas?</td>
+      <td>Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps.</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>Concept design. What tools  can be used to further develop the initial idea into a more detailed concept description?</td>
+      <td>Concept engineering; Kano method; morphological analysis; TRIZ method.</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>Embodiment. What tools can be used to provide even greater detail to the concept in terms of aesthetics, form, and functional details.</td>
+      <td>Conjoint analysis; function analysis; FAST diagram; reverse engineering.</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept?</td>
+      <td>Design for functionality; design for assembly; design for recycling.</td>
+    </tr>
+    <tr>
+      <td>Stage 5</td>
+      <td>Detail design specifications. What tools can be used to add greater detail to the initial design specifications?</td>
+      <td>QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions.</td>
+    </tr>
+    <tr>
+      <td>Stage 6</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Check out the <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">Digital and Intelligent Product Development</a> for more info.</p>]]></content><author><name>Loi Ng</name></author><category term="NPDP" /><category term="Product Design and Development Tools" /><summary type="html"><![CDATA[产品设计和开发工具非常重要]]></summary></entry><entry><title type="html">产品设计与开发工具 [双语博文]</title><link href="http://localhost:4000/npdp/2022/09/12/what-is-strategy.html" rel="alternate" type="text/html" title="产品设计与开发工具 [双语博文]" /><published>2022-09-12T00:00:00+08:00</published><updated>2022-09-12T00:00:00+08:00</updated><id>http://localhost:4000/npdp/2022/09/12/what-is-strategy</id><content type="html" xml:base="http://localhost:4000/npdp/2022/09/12/what-is-strategy.html"><![CDATA[<h2 id="产品设计和开发工具非常重要">产品设计和开发工具非常重要</h2>
+
+<p>我们钟爱产品创新，产品的设计和开发是产品创新要具体做的事情。在产品设计和开发的过程中，我们可以利用特定的工具和方法完成产品的创新，完成创意构思、概念开发、实体设计和细节设计。</p>
+
+<p>得益于特定工具的应用，产品设计和开发阶段中的不确定性和模糊性减少了，客户的需求和设计的技术规范得到保障。</p>
+
+<h2 id="正确的工具应用在正确的阶段">正确的工具应用在正确的阶段</h2>
+
+<p>在产品创新的设计和开发过程阶段应用适当的工具，其中一些工具可用于设计和开发的多个阶段。我将这些阶段和可能应用到的工具总结如下：</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>阶段</th>
+      <th>工具</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>阶段 1</td>
+      <td>创意生成阶段：哪些工具可以解决问题、识别机会或生成新的产品创意？</td>
+      <td>SCAMPER法、头脑风暴、思维导图、故事板、头脑书写法、六顶思考帽、德尔菲法、人种学方法、生命中的一天法、移情分析、用户画像、用户体验地图</td>
+    </tr>
+    <tr>
+      <td>阶段 2</td>
+      <td>概念设计阶段：哪些工具可将创意转化为更为详细的概念说明？</td>
+      <td>概念工程、卡诺模型、形态分析、概念场景、TRIZ</td>
+    </tr>
+    <tr>
+      <td>阶段 3</td>
+      <td>实体化设计阶段：哪些工具可以提供更多产品外观、形态和功能细节？</td>
+      <td>联合分析、功能分析、FAST技术图、逆向工程</td>
+    </tr>
+    <tr>
+      <td>阶段 4</td>
+      <td>初试设计和规格设计阶段：哪些工具可将定性设计概念转化为定量设计规格？</td>
+      <td>功能性设计、可生产性设计、可装配性设计、可维护性设计、可回收性设计、可用性设计、可服务性设计</td>
+    </tr>
+    <tr>
+      <td>阶段 5</td>
+      <td>详细设计和规格设计阶段：哪些工具可将初始设计规格更为详细化？</td>
+      <td>质量功能展开、稳定设计、情感化设计</td>
+    </tr>
+    <tr>
+      <td>阶段 6</td>
+      <td>制造与装配阶段：哪些工具可为产品规模扩大、大批量生产和上市提供详细的规格？</td>
+      <td>原型法、六西格玛设计、可持续性设计</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>点击 <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">数字和智能产品开发</a> 获得更多详细信息.</p>
+
+<h2 id="tools-are-extremely-important">Tools are extremely important</h2>
+
+<p>Product innovation makes use of specific tools and methods as products move through the different phases of design and development: ideation, concept development, embodiment design, and detail design.</p>
+
+<p>Each of these phases benefits significantly from the application of particular tools to reduce uncertainty and ambiguity and to assure conformance with the customer requirements and technical specifications of the design. A number of the most commonly used tools can be applied at the various phases of the product design process.</p>
+
+<h2 id="right-tools-at-right-stages">Right Tools at Right Stages</h2>
+
+<p>Appropriate tools should be applied in the sequential stages of the design and development process for product innovations, some of which may be used in multiple stages of design and development.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Stage</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stage 1</td>
+      <td>Ideation. What tools can be used to solve problems, identify opportunities, or generate new product ideas?</td>
+      <td>Scamper; brainstorming; mindmapping; storyboarding; brainwriting; six-thinking-hats; Delphi; ethnography; a day in the life; empathy analysis; personas; journey maps.</td>
+    </tr>
+    <tr>
+      <td>Stage 2</td>
+      <td>Concept design. What tools  can be used to further develop the initial idea into a more detailed concept description?</td>
+      <td>Concept engineering; Kano method; morphological analysis; TRIZ method.</td>
+    </tr>
+    <tr>
+      <td>Stage 3</td>
+      <td>Embodiment. What tools can be used to provide even greater detail to the concept in terms of aesthetics, form, and functional details.</td>
+      <td>Conjoint analysis; function analysis; FAST diagram; reverse engineering.</td>
+    </tr>
+    <tr>
+      <td>Stage 4</td>
+      <td>Initial design specifications. What tools can be used to add quantitative specifications to the qualitative design concept?</td>
+      <td>Design for functionality; design for assembly; design for recycling.</td>
+    </tr>
+    <tr>
+      <td>Stage 5</td>
+      <td>Detail design specifications. What tools can be used to add greater detail to the initial design specifications?</td>
+      <td>QFD; house of quality; Taguchi methods; LCA; Kansei engineering; neural networks; reaction cards; emergent emotions.</td>
+    </tr>
+    <tr>
+      <td>Stage 6</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+      <td>Fabrication and assembly. What tools can be used to provide further specifications  in preparation for scale-up to manufacturing and launch?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Check out the <a href="https://sili-insights.feishu.cn/wiki/wikcnQ8gQQPXW5dftmTx6f2XfJh">Digital and Intelligent Product Development</a> for more info.</p>]]></content><author><name>Loi Ng</name></author><category term="NPDP" /><category term="Product Design and Development Tools" /><summary type="html"><![CDATA[产品设计和开发工具非常重要]]></summary></entry><entry><title type="html">飞轮模型!Welcome to Flywheel!</title><link href="http://localhost:4000/insight/2022/06/22/welcome-to-flywheel.html" rel="alternate" type="text/html" title="飞轮模型!Welcome to Flywheel!" /><published>2022-06-22T00:00:00+08:00</published><updated>2022-06-22T00:00:00+08:00</updated><id>http://localhost:4000/insight/2022/06/22/welcome-to-flywheel</id><content type="html" xml:base="http://localhost:4000/insight/2022/06/22/welcome-to-flywheel.html"><![CDATA[<h1 id="序言">序言</h1>
+
+<p>数字化和智能化的时代正在到来。</p>
+
+<p>为了形成强大的核心竞争力，我一直在进行认知转型。即便作为一个单独的个体，我也希望能够构建出自己的基础设施，自己的有把握命运的能力。</p>
+
+<h2 id="转型和基础设施">转型和基础设施</h2>
+
+<p>“Tyo”(你自己的转变)和“Iyo”(你自己的基础设施)是我提出的两个非常有效的方法，可以帮助我自发地做出变革。</p>
+
+<h3 id="你自己的转型">你自己的转型</h3>
+
+<p>对数字化和智能化的全面理解是你转型之旅的里程碑。正确解读它们也是本专栏的一项重要任务。</p>
+
+<h3 id="你自己的基础设施">你自己的基础设施</h3>
+
+<p>你的基础设施应该包括:产品、技术、业务和战略。本专栏将引导你走上正确的道路，并帮助你构建自己的基础设施。</p>
+
+<h2 id="飞轮和四个焦点">飞轮和四个焦点</h2>
+
+<p>我主要从事新产品开发和产品管理。通常我习惯于从四个维度逐一分析，全面地看待我所创造的产品。我将这种方法称为飞轮模型，简称为<strong>飞轮</strong>。</p>
+
+<ul>
+  <li>产品</li>
+  <li>技术</li>
+  <li>业务</li>
+  <li>战略</li>
+</ul>
+
+<p>查看<a href="https://www.theforage.cn">PMerBot</a>获取更多信息，掌握如何最大限度地利用<strong>飞轮模型</strong>。</p>
+
+<h1 id="preface">Preface</h1>
+
+<p>The era of digitization and intelligence is coming.</p>
+
+<p>In order to form a strong core competency, I am always undertaking cognitive transformation and forming your own infrastructure.</p>
+
+<h2 id="transformation-and-infrastructure">Transformation and Infrastructure</h2>
+
+<p><code class="language-plaintext highlighter-rouge">Tyo</code> (Transformation your own) and <code class="language-plaintext highlighter-rouge">Iyo</code> (Infrastructure your own) are two really effective methods that I’ve proposed to help me making changes spontaneously.</p>
+
+<h3 id="transformation-your-own">Transformation your own</h3>
+
+<p>A full understanding of digitization and intelligence is a milestone on your transformation journey. Correct interpretation of them is also an important task of this column.</p>
+
+<h3 id="infrastructure-your-own">Infrastructure your own</h3>
+
+<p>Your infrastructure should include: product, technology, business and strategy. This column will lead you on the right path and help you build your own infrastructure.</p>
+
+<h2 id="flywheel-and-four-focus">Flywheel and Four Focus</h2>
+
+<p>I focus on new product development and product management. Usually I am used to analyzing from four dimensions one by one, and comprehensively look at the product I am creating. I call this approach the flywheel model or <strong>Flywheel</strong>.</p>
+
+<ul>
+  <li>Product</li>
+  <li>Technology</li>
+  <li>Business</li>
+  <li>Strategy</li>
+</ul>
+
+<p>Check out the <a href="https://www.theforage.cn">PMerBot</a> for more info on how to get the most out of <strong>Flywheel</strong>.</p>]]></content><author><name>Loi Ng</name></author><category term="Insight" /><category term="Loi&apos;s Insight" /><summary type="html"><![CDATA[序言]]></summary></entry></feed>
