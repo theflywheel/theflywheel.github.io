@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 最新总结:产品设计与开发工具 [双语博文]
+title: 产品设计与开发工具 [双语博文]
 subtitle: Product Design and Development Tools [Bilingual]
 author: Loi Ng
 categories: NPDP
 banner:
   volume: 0.8
   start_at: 8.5
-  image: "/assets/images/banners/cat01.jpeg"
+  image: "/assets/images/banners/cat04.jpeg"
   opacity: 0.618
   background: "#000"
   height: "100vh"
